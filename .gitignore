@@ -1,0 +1,5 @@
+.vscode/
+poetry.lock
+ydb_test.zip
+requirements.txt
+__pycache__
